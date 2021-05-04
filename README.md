@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krisfragata
-- 👀 I’m interested in building interactive web (and maybe one day mobile) applications that help inspire creativity and productivity.
-- 🌱 I’m currently learning React.js and server-side js
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m interested in **building interactive web (and maybe one day mobile) applications that help inspire creativity and productivity.**
+- 🌱 I’m currently learning **React.js**, **server-side js**, **node.js,** and sharpening my skills in **vanilla javascript** and **html/css**
+- 💞️ I’m looking to collaborate on **web development projects**
 - 📫 How to reach me @kristinnefragata@outlook.com
 
 <!---
