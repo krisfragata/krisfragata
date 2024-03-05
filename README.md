@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krisfragata
 - 👀 I’m interested in **building interactive web and mobile applications that help inspire creativity and productivity.**
-- 🌱 I’m currently learning **React.js**, **server-side js**, **node.js,** and sharpening my skills in **vanilla javascript** and **html/css**
+- 🌱 I’m skilled in **React, Redux-Toolkit, Svelte/Svelte-kit, NoSQL, and Node.js** and sharpening my skills in **Next.js, GraphQL** and **SQL**
 - 💞️ I’m looking to collaborate on **web development projects**
 - 📫 How to reach me @kristinnefragata@outlook.com
 
