@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @krisfragata
-- 👀 I’m interested in **building, scalable and accessible web and mobile applications.**
-- 💞️ I’m looking to collaborate on **web and mobile development projects**
 - 📫 How to reach me @kristinnefragata@outlook.com
 
 <!---
